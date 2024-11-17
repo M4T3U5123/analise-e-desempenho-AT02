@@ -1,0 +1,10 @@
+Tempo de execu��o: 1349.95 ms
+Tempo de execu��o: 1363.43 ms
+Tempo de execu��o: 1355.10 ms
+Tempo de execu��o: 1381.53 ms
+Tempo de execu��o: 1358.19 ms
+Tempo de execu��o: 1351.94 ms
+Tempo de execu��o: 1399.52 ms
+Tempo de execu��o: 1376.02 ms
+Tempo de execu��o: 1355.20 ms
+Tempo de execu��o: 1371.96 ms

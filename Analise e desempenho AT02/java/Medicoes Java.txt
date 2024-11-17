@@ -1,0 +1,11 @@
+Java: 1277.1655ms
+Java: 1147.1421ms
+Java: 1148.1907ms
+Java: 1178.5994ms
+Java: 1139.8021ms
+Java: 1145.045ms
+Java: 1179.648ms
+Java: 1148.1907ms
+Java: 1141.8993ms
+Java: 1175.4537ms
+
